@@ -12,5 +12,5 @@
 * 👨‍💻 Flutter
 * 🖥️ Json
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogesh-7&amp;theme=dark&amp;hide_langs_below=1%22%20style=%22max-width:100%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pikachu404&amp;theme=dark&amp;hide_langs_below=1%22%20style=%22max-width:100%">
 <img src="https://github-readme-stats.vercel.app/api?username=yogesh-7&&show_icons=true&title_color=ffffff&icon_color=79FE96&text_color=daf7dc&bg_color=191919">
