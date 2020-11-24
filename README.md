@@ -1,4 +1,4 @@
-### Hola, I'm Sagar Khurana! 👋
+### Hola, I'm Yogesh Bansal! 👋
 
 - 🔭 I’m currently working on myself
 - 🌱 I’m currently learning AWS Amplify
