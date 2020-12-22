@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on Ensowt
 - 💬 Ask me about Andorid or any tech related stuff
 - 📫 How to reach me: [Linkedin - @Yogeshbansal](https://www.linkedin.com/in/yogesh-bansal-988a87155/), [Instagram - @_yogesh_bansal_](https://www.instagram.com/_yogesh_bansal_/)
-- 😄 Pronouns: He/His
 - ⚡ Fun fact: I spent almost 12 hours listening lofi hip hop radio
 
 ## Skills and Experience
