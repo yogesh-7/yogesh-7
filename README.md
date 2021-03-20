@@ -10,6 +10,7 @@
 * 📱 Kotlin
 * 👨‍💻 Flutter
 * 🖥️ Json
+* 🖥️ Phython
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogesh-7&amp;theme=dark&amp;hide_langs_below=1%22%20style=%22max-width:100%">
