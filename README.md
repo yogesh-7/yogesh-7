@@ -6,8 +6,8 @@
 - ⚡ Fun fact: I spent almost 12 hours listening lofi hip hop radio
 
 ## Skills and Experience
-* ♨️ Java
 * 📱 Kotlin
+* ♨️ Java
 * 👨‍💻 Flutter
 * 🖥️ Json
 * 🖥️ Python
