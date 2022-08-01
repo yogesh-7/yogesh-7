@@ -1,6 +1,6 @@
 ### Hola, I'm Yogesh Bansal! 👋
 
-- 🔭 I’m currently working on StudyIQ
+- 🔭 I’m currently working on Khyaal
 - 💬 Ask me about Andorid or any tech related stuff
 - 📫 How to reach me: [Web - @Yogeshbansal](https://www.helloyogesh.com), [Linkedin - @Yogeshbansal](https://www.linkedin.com/in/yogesh-bansal-988a87155/), [Instagram - @_yogesh_bansal_](https://www.instagram.com/_yogesh_bansal_/)
 - ⚡ Fun fact: I spent almost 12 hours listening lofi hip hop radio
